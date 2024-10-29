@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Main-Class: org.eclipse.leshan.server.demo.LeshanServerDemo
+Class-Path: californium-core-2.6.1.jar commons-lang-2.6.jar commons-io-2
+ .8.0.jar jackson-core-2.11.2.jar jetty-util-9.4.34.v20201102.jar slf4j-
+ api-1.7.30.jar jackson-annotations-2.11.2.jar jetty-http-9.4.34.v202011
+ 02.jar scandium-2.6.1.jar minimal-json-0.9.5.jar cbor-4.3.0.jar logback
+ -core-1.2.3.jar jetty-xml-9.4.34.v20201102.jar jetty-server-9.4.34.v202
+ 01102.jar californium-legal-2.6.1.jar jmdns-3.5.6.jar jackson-databind-
+ 2.11.2.jar jetty-servlet-9.4.34.v20201102.jar commons-cli-1.4.jar javax
+ .servlet-api-3.1.0.jar jetty-security-9.4.34.v20201102.jar jackson-data
+ format-cbor-2.11.2.jar logback-classic-1.2.3.jar eddsa-0.3.0.jar jedis-
+ 3.3.0.jar jetty-servlets-9.4.34.v20201102.jar element-connector-2.6.1.j
+ ar commons-pool2-2.6.2.jar jetty-io-9.4.34.v20201102.jar numbers-1.7.4.
+ jar jetty-webapp-9.4.34.v20201102.jar jetty-continuation-9.4.34.v202011
+ 02.jar gson-2.8.6.jar
+
